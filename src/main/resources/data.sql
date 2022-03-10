@@ -1,0 +1,2 @@
+INSERT INTO teacher (id, firstname, lastname, schoolteaching) VALUES ('1', 'Gabriel', 'Couroux', 'Maths');
+INSERT INTO Classroom (id, number, floor, capacity, date) VALUES ('2', 32, 2, 50,'2022-03-12'), ('3', 12, 3, 45,'2022-03-13');
